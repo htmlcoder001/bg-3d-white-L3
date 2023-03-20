@@ -114,7 +114,7 @@
   border-radius: 10px;
 }
 .intro-price__discount b {
-  margin-left: 4px;
+  margin-right: 4px;
 }
 .intro-price__tag {
   width: 183px;
@@ -133,7 +133,7 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 46px;
   line-height: 61px;
   text-align: center;
   
@@ -143,7 +143,7 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 30px;
+  font-size: 28px;
   line-height: 37px;
   text-align: center;
   text-decoration-line: line-through;
@@ -193,7 +193,7 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 30px;
   text-align: center;
   color: #FFFFFF;
@@ -351,7 +351,7 @@
   border-radius: 10px;
 }
 .cta-head__discount b {
-  margin-left: 4px;
+  margin-right: 4px;
 }
 .cta-head__name {
   font-family: 'Montserrat', sans-serif;
@@ -369,7 +369,7 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 23px;
+  font-size: 18px;
   line-height: 28px;
   text-align: right;
   
@@ -470,7 +470,7 @@
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 19px;
+  font-size: 17px;
   line-height: 24px;
   
   color: #FFFFFF;

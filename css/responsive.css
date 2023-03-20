@@ -51,8 +51,16 @@
   .countdown-wrapper__heading,
   .countdown-amount__text,
   .features-item__text,
-  .delivery-item__text {
+  .reviews-item__text,
+  .reviews-head__name {
     font-size: 16px;
+  }
+  .reviews-head__avatar {
+    width: 40px;
+    height: 40px;
+  }
+  .delivery-item__text {
+    font-size: 15px;
   }
   .cta-wrapper__text,
   .about-box__item,
